@@ -19,7 +19,7 @@ There must be more than 3 values in the input for it to work as intended.
 
 Generates a random permutation of {1,2,...,10} and inserts them into the tree.
 
-![Ex2](images/ex2.png)
+![Ex2](images/2.png)
 
 **3) Alternating insertions and deletions**
 
@@ -35,5 +35,6 @@ ___
 
 - Once you have that installed, in your local shell (terminal, command prompt etc.) navigate to the folder/directory where you have the two classes 'Tree.java' and 'Graph.java' saved.
 
-- To run the program, type ``javac Tree.java`` followed by ``java Tree [input] > [name].tex``. This will generate a ``.tex`` file with the code to generate the graph. If you do not have a LaTeX compiler installed then you can use online editors like [Overleaf](https://www.overleaf.com/) to view the graph. Simply change the output extension to `.txt` and paste this into Overleaf. A benefit of using overleaf is that all packages needed are pre-installed.
+- To run the program, type ``javac Tree.java`` followed by ``java Tree [input] > [name].tex``. This will generate a ``.tex`` file with the code to generate the graph. You can then type ``pdflatex [name].tex`` to produce a pdf file where you can see graph.
+If you do not have a LaTeX compiler installed or this doesn't work for some unknown reason, then you can always use online compilers like [Overleaf](https://www.overleaf.com/) to view the graph. Simply change the output extension to `.txt` and paste this into Overleaf. A benefit of using overleaf is that all packages needed are pre-installed.
 
