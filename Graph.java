@@ -1,6 +1,3 @@
-//CANDIDATE NUMBER: 35946
-
-
 public class Graph {
 
     private final int maxcoordinate = 100;
