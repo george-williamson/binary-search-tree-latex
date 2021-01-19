@@ -24,7 +24,9 @@ Generates a random permutation of {1,2,...,10} and inserts them into the tree.
 ![Ex2](images/2.png)
 
 **3) Alternating insertions and deletions**
+
 Input: n, d (where d < n, n <= 50)
+
 *Example input: 10, 3* 
 
 First it will generate a random permuation of {1,...,n+d} and insert only the first n into the tree.
