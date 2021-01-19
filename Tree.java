@@ -1,6 +1,3 @@
-//CANDIDATE NUMBER: 35946
-
-
 public class Tree {
 
     private int nodeCounter = 0;
