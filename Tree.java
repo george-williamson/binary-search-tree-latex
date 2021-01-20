@@ -309,7 +309,6 @@ public class Tree {
         }
     }
 
-    //used for part g)
     //alternates insertions and deletions and compares the old and new depths in tabular form
     private void depthComparisons(int n, int d, int r, Tree t){
 
