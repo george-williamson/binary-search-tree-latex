@@ -117,9 +117,9 @@ public class Graph {
             return;
         }
 
-        /* NOTE TO MARKER: If we were allowed to use libraries then this method
-        of copying and redefining arrays could have been heavily simplified by using Java's
-        ArrayList class.
+        /* NOTE TO USER: When creating this class. I submitted this for a university coursework.
+        We were not allowed to use external libraries and thus was not allowed to simplify the following code
+        using the ArrayList.
          */
 
 
