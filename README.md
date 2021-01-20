@@ -53,7 +53,7 @@ ___
 
 - Once you have that installed, in your local shell (terminal, command prompt etc.) navigate to the folder/directory where you have the two classes 'Tree.java' and 'Graph.java' saved.
 
-- To run the program, type ``javac Tree.java`` followed by ``java Tree [input] > [name].tex``. This will generate a ``.tex`` file with the code to generate the graph. You can then type ``pdflatex [name].tex`` to produce a pdf file where you can see graph.
+- To run the program, type ``javac Tree.java`` followed by ``java Tree [input] > [name].tex``. This will generate a ``.tex`` file with the code to generate the BST graph. You can then type ``pdflatex [name].tex`` to produce a pdf file where you can see BST graph.
 If you do not have a LaTeX compiler installed or this doesn't work for some unknown reason, then you can always use online compilers like [Overleaf](https://www.overleaf.com/) to view the graph. Simply change the output extension to `.txt` and paste this into Overleaf. A benefit of using overleaf is that all packages needed are pre-installed.
 
 ## Notes
